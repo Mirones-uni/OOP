@@ -1,4 +1,0 @@
-﻿  lab1_oopC.cpp
-C:\Users\karas\source\repos\lab1_oopC\lab1_oopC\lab1_oopC.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-C:\Users\karas\source\repos\lab1_oopC\lab1_oopC\lab1_oopC.cpp(22,24): warning C4244: инициализация: преобразование "__int64" в "short", возможна потеря данных
-  lab1_oopC.vcxproj -> C:\Users\karas\source\repos\lab1_oopC\x64\Debug\lab1_oopC.exe
